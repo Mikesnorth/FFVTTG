@@ -1,17 +1,18 @@
 # Stats
-**Strength:** -1
+**Physical Strength:** -1
 
-**Dexterity:** -2
+**Physical Defense:** -2
 
-**Constitution:** 0
+**Magic Power:** 1+joblevel
 
-**Intelligence:** +level
+**Magic Defense:** 1+joblevel
 
-**Wisdom:** +level
+**Agility:** 0
 
-**Charisma:** 0
+# Action
+Black Magic
 
-# Abilities
+# Learned Abilities
 1. Black 1 (5)
 2. Black 2 (10) 
 3. Black 3 (25)
@@ -19,6 +20,3 @@
 5. Black 5 (85)
 6. Black 6 (135)
 7. MP+30% (250)
-
-# Bonuses
-Access to all Black Magic
